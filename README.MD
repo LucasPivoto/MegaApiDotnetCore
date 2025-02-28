@@ -1,7 +1,7 @@
 <h1 align="center">
   <br />
   <img
-    src="./_docs/assets/icon.png"
+    src="./_docs/assets/icon2.png"
     alt="Mega Man Robots API"
     width="150"
   />
